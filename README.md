@@ -4,7 +4,7 @@ Laboratorio 1 - aplicaciones web
 # ***EJERCICIO A***
 ## 1. LINK DEL EJERCICIO A: https://codepen.io/Ana-Isabel-P-rez-P-iz/pen/xxBLBKp
 
-# ***PROYECTO AL QUE SE REALIZO EL FORK ***
+# ***PROYECTO AL QUE SE REALIZO EL FORK***
 ## 1. LINK DEL PRIYECTO: https://github.com/CC-4
 
 # ***PROYECTOS DE MI INTERES***
