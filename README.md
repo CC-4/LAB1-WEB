@@ -2,10 +2,10 @@
 Laboratorio 1 - aplicaciones web
 
 ------ EJERCICIO A -----
-LINK DEL EJERCICIO A: https://codepen.io/Ana-Isabel-P-rez-P-iz/pen/xxBLBKp
+1. LINK DEL EJERCICIO A: https://codepen.io/Ana-Isabel-P-rez-P-iz/pen/xxBLBKp
 
 ----- PROYECTO AL QUE SE REALIZO EL FORK -----
-LINK DEL PRIYECTO: https://github.com/CC-4
+1. LINK DEL PRIYECTO: https://github.com/CC-4
 
 ------ PROYECTOS DE MI INTERES -----
 1. MARVOL-PRIYECT LINK: https://github.com/yadurani/marvol-project.git
